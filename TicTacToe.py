@@ -22,7 +22,6 @@ pos=[]
 winner=None
 draw=None
 empty=None
-game_over=False
 x=1
 o=2
 player=x
